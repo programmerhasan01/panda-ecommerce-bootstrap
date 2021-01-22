@@ -1,0 +1,40 @@
+.container{
+    margin-bottom: 100px;
+}
+input{
+    outline: 0;
+}
+.pink,.subscribe-bg{
+    background-color: #FCEAE8;
+}
+.dark-pink{
+    background-color: #e75480;
+}
+/* carousel css start */
+
+.carousel-item{
+    padding: 20px 40px;
+}
+/* categorie part start */
+.watch-content{
+    background-color: orange;
+}
+.bag-content{
+    background-color: orchid;
+}
+.shoes-content{
+    background-color: blue;
+}
+.watch-content,
+.bag-content,
+.shoes-content{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+/* card css start */
+.shoes-card,
+.card-backpack{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
